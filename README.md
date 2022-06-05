@@ -8,6 +8,7 @@
 ## Использовала MaterialUI и ReactJS;
 
 ## Ссылка на развернутый проект на github pages
+https://alisacosmos.github.io/appTrivio/
 
 ## Скриншот приложения
 
