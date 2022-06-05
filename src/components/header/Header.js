@@ -95,24 +95,8 @@ return (
                                                         ))}
                                                 </Menu>
                                 </Box>
-                                <Box>
-                                    <Link
-                                        component="button"
-                                        variant="body2"
-                                        onClick={() => {
-                                        console.info("I'm a button.")}}
-                                        sx={{ display: { xs: 'flex', md: 'none' }, 
-                                        mr: 1,
-                                        my: 2 }} > 
-                                            <div>
-                                                <img 
-                                                    src="img/logo.svg" 
-                                                    alt="Trivio" />
-                                            </div>
-                                    </Link>
-                                </Box>
                                 <Box 
-                                    sx={{ 
+                                    sx={{ flexGrow: 0,
                                         display: { xs: 'none', md: 'flex' } }}>
                                             {pages.map((page) => (
                                                 <Button
