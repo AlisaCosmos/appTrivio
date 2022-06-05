@@ -21,8 +21,7 @@ const SimpleBottomNavigation = () => {
     };
     
 return (
-    <Box 
-        sx={{ width: 500 }}>
+    <Box>
             <BottomNavigation
                 showLabels
                 value={value}
