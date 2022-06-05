@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/appTrivio/static/js/main.78f98239.js",
+    "index.html": "/appTrivio/index.html",
+    "main.78f98239.js.map": "/appTrivio/static/js/main.78f98239.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.78f98239.js"
+  ]
+}
